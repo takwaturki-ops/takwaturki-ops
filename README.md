@@ -12,7 +12,8 @@
 
 ```
 > whoami
-Étudiante en Génie Informatique @ ISI
+Étudiante en Génie Informatique @ ENICARTHAGE
+
 > focus
 SecOps | Sécurité défensive | Automatisation
 > status
