@@ -1,23 +1,38 @@
-## Hi there 👋
+# Salut, moi c'est Takwa 👋
+ 
+Étudiante en **génie informatique**  orientée **SecOps** et **sécurité défensive**.
 
-# - 🔭 Software Engineering Student | Aspiring Full-Stack Developer
-
---> I'm always eager to collaborate on exciting projects and connect with fellow developers, so feel free to reach out through takwa.turki@enicar.ucar.tn
-
-## 🚀 About Me
-
-I'm a passionate software engineering student with a strong interest in building innovative web applications and solving real-world problems through code. My journey in tech is driven by curiosity, continuous learning, and a desire to create impactful solutions. I'm particularly focused on full-stack development and enjoy working on projects that challenge me to grow as a developer.
-
-## 💻 Tech Stack
-
-**Languages:**
-
-- Python
-- SQL 
-- C/C++
-- HTML/CSS
-
-## 📫 Let's Connect!
-
-- 📧 Email: takwa.turki@enicar.ucar.tn
-- 💼 LinkedIn: https://www.linkedin.com/in/takwa-turki-595422378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+ ## 🧠 Compétences techniques
+ 
+**Langages & scripting**
+- Python (scripting système, automatisation, agents de surveillance)
+- C
+- C++
+- Java
+- JavaScript
+**Conteneurisation & infrastructure**
+- Docker / Docker Compose (architectures multi-conteneurs, réseaux bridge, volumes persistants)
+**Automatisation & orchestration**
+- n8n (workflows d'automatisation, webhooks, notifications multi-canaux)
+**Backend & API**
+- Flask (API REST, endpoints HTTP)
+- SQLite (stockage persistant, accès concurrent)
+**Sécurité applicative**
+- RBAC (contrôle d'accès basé sur les rôles)
+- Authentification à deux facteurs (2FA / TOTP)
+- JWT (gestion et validation de tokens)
+- Rate limiting
+- Protection contre les injections (requêtes paramétrées)
+**Surveillance & détection**
+- Détection d'intrusion basée hôte (HIDS)
+- Surveillance de fichiers en temps réel (watchdog)
+- Intégrité de fichiers via hachage SHA-256
+- Détection de processus via analyse /proc
+**Versionning & méthodologie**
+- Git (Conventional Commits)
+**Concepts en apprentissage actif**
+- Réseaux, pentest, exploitation web, reverse engineering (approche conceptuelle puis mise en pratique via CTF)
+- Architectures de préservation de la vie privée et anonymisation des données sensibles
+---
+*README de compétences techniques.*
+ 
